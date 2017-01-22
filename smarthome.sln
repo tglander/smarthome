@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeatControl", "HeatControl\HeatControl.vcxproj", "{1D4CE43E-7F59-451A-BC7E-83290BE3C868}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RoomSimulator", "RoomSimulator\RoomSimulator.vcxproj", "{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Debug|x64.ActiveCfg = Debug|x64
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Debug|x64.Build.0 = Debug|x64
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Debug|x86.Build.0 = Debug|Win32
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Release|x64.ActiveCfg = Release|x64
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Release|x64.Build.0 = Release|x64
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Release|x86.ActiveCfg = Release|Win32
+		{1D4CE43E-7F59-451A-BC7E-83290BE3C868}.Release|x86.Build.0 = Release|Win32
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Debug|x64.ActiveCfg = Debug|x64
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Debug|x64.Build.0 = Debug|x64
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Debug|x86.Build.0 = Debug|Win32
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Release|x64.ActiveCfg = Release|x64
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Release|x64.Build.0 = Release|x64
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Release|x86.ActiveCfg = Release|Win32
+		{86F4FE2E-03F8-444D-9F9C-C1C270B99FF2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
